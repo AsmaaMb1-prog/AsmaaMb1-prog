@@ -33,14 +33,6 @@ Hello! I am a **Web Developer**, **UI/UX Designer**, and **Tech Project Manager*
 * **Watheeq (وَثيق)**  
   Digital academic credential verification platform using cryptographic hashing (SHA-256) and QR code authentication to eliminate certificate forgery.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsmaaMb1-prog&show_icons=true&theme=dark&hide_border=true" alt="Asmaa's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsmaaMb1-prog&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
