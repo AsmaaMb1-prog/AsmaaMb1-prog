@@ -1,10 +1,10 @@
-🌟 Welcome to My Profile | Asmaa Baras
+
 
 Hello! I am a **Web Developer**, **UI/UX Designer**, and **Tech Project Manager** passionate about building digital experiences with purpose, clean architecture, and intuitive design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Development & Web Solutions**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -25,7 +25,7 @@ Hello! I am a **Web Developer**, **UI/UX Designer**, and **Tech Project Manager*
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 * **HUSV Club Official Website**  
   Official web platform designed, engineered, and deployed for the Student Voluntary Club to organize initiatives and manage members.
